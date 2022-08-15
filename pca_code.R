@@ -38,4 +38,4 @@ p <- ggplot(PC, aes(PC1, PC2,label = State)) +
   ylab("Second Principal Component") + 
   ggtitle("First Two Principal Components of Nicotiana Data")
 
-p2 <- p + geom_text_repel(segment.color = NA) + labs(title = "geom_text_repel()")
+p2 <- p + geom_text_repel(segment.color = NA) 
