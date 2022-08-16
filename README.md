@@ -1,6 +1,6 @@
 # Soil amendments enhanced the growth of Nicotiana alata L. and Petunia hydrida L. by stabilizing heavy metals from wastewater
 
-**Authors:** Aqib Hassan Ali Khan 1,IsmatNawaz 2,SohailYousaf 2,Ammar SabirCheema 3,Mazhar Iqbal 1,
+**Authors:** Aqib Hassan Ali Khan 1, IsmatNawaz 2, SohailYousaf 2, Ammar SabirCheema 3, Mazhar Iqbal 1,
 
 1 Department of Environmental Sciences, Faculty of Biological Sciences, Quaid-i-Azam University, 45320, Islamabad, Pakistan
 
