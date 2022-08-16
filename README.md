@@ -15,3 +15,10 @@
 
 This github contains the code used to perform PCA and correlation analysis for the article.
 
+
+**Code Description:**
+
+**corr_plot_code.R:** contains the code for perfoming correlation analysis
+
+**pca_code.R:** contains the code for performing PCA 
+
